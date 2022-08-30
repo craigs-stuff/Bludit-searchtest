@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 114 23"
+   version="1.1"
+   sodipodi:docname="logoSmall.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   width="114"
+   height="23"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="3.3645532"
+     inkscape:cx="42.056105"
+     inkscape:cy="-6.5387583"
+     inkscape:window-width="1330"
+     inkscape:window-height="743"
+     inkscape:window-x="36"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     width="102px" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#09f;}.cls-2{fill:#2b2b4f;}</style>
+  </defs>
+  <title
+     id="title6">logo</title>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.8064px;line-height:1.25;font-family:Niconne;-inkscape-font-specification:'Niconne, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:1.62057px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.54516"
+     x="1.0107305"
+     y="16.322813"
+     id="text3399"
+     transform="scale(0.95782221,1.0440351)"
+     inkscape:export-filename="/var/www/html/projects/Bludit/themes/healthy/bl-themes/healthy/img/healthyClubLogoWhite.png"
+     inkscape:export-xdpi="86.550003"
+     inkscape:export-ydpi="86.550003"><tspan
+       sodipodi:role="line"
+       id="tspan3397"
+       x="1.0107305"
+       y="16.322813"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.8064px;font-family:Niconne;-inkscape-font-specification:'Niconne, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.54516">Healthy Club</tspan></text>
+  <metadata
+     id="metadata3917">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 180 32"
+   version="1.1"
+   sodipodi:docname="postIcon.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   width="180"
+   height="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="6.7291063"
+     inkscape:cx="44.656747"
+     inkscape:cy="-1.6346896"
+     inkscape:window-width="1330"
+     inkscape:window-height="743"
+     inkscape:window-x="36"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     width="180px" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#09f;}.cls-2{fill:#2b2b4f;}</style>
+  </defs>
+  <title
+     id="title6">logo</title>
+  <metadata
+     id="metadata3917">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <ellipse
+     style="fill:#782167;stroke:none;stroke-width:0.25"
+     id="path131"
+     cx="15.749452"
+     cy="15.92782"
+     rx="15.608406"
+     ry="15.768858"
+     inkscape:export-filename="/var/www/html/projects/Bludit/themes/simple/bl-themes/simple/img/postIcon.png"
+     inkscape:export-xdpi="125.654"
+     inkscape:export-ydpi="125.654" />
+  <ellipse
+     style="fill:#ffffff;stroke:none;stroke-width:0.189192"
+     id="ellipse3259"
+     cx="15.84102"
+     cy="15.665116"
+     rx="11.811946"
+     ry="11.933372"
+     inkscape:export-filename="/var/www/html/projects/Bludit/themes/simple/bl-themes/simple/img/postIcon.png"
+     inkscape:export-xdpi="125.654"
+     inkscape:export-ydpi="125.654" />
+  <ellipse
+     style="fill:#a02c89;stroke:none;stroke-width:0.111724"
+     id="ellipse3279"
+     cx="16.048363"
+     cy="15.82274"
+     rx="6.9753604"
+     ry="7.0470667"
+     inkscape:export-filename="/var/www/html/projects/Bludit/themes/simple/bl-themes/simple/img/postIcon.png"
+     inkscape:export-xdpi="125.654"
+     inkscape:export-ydpi="125.654" />
+</svg>
